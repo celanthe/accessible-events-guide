@@ -5,7 +5,7 @@
 
 ## Hello and welcome! Thank you for viewing this guide. It is still a WIP, and more pages will be added over the next few days/weeks/months.
 
-This repo was inspired by the Gender Inclusive Events guide written by Perry Eising, referenced above. Perry is great. You should check them out <a href="https://twitter.com/perrysetgo"> on Twitter</a>.
+This repo was inspired by the Gender Inclusive Events guide written by Perry Eising, referenced above. Perry is great. You should check him out <a href="https://twitter.com/perrysetgo"> on Twitter</a>.
 
 ### 1. Who this material is for
 This guide is meant for people and organizations that are hosting events. In particular, tech-focused and tech-adjacent events. It is by no means meant as a hard-line ruleset.
